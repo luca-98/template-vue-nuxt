@@ -55,8 +55,6 @@ export default {
   auth: {
     cookie: false,
     redirect: {
-      login: '/',
-      logout: '/',
       home: '/',
       callback: false
     }
